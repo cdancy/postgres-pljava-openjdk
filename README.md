@@ -3,4 +3,4 @@ Based on the image [xxBedy/postgres-pljava](https://github.com/xxBedy/postgres-p
 
 Furthermore, this image has been optimized to be as small as possible. The aforementioned image this was based on currently sits at 1.4GB. This image, after the various optimizations made (we're not squashing), is just shy of 450MB.
 
-Image can be found here: [cdancy/postgres-pljava-openjdk](https://hub.docker.com/r/cdancy/postgres-pljava-openjdk/)
+Image can be found here: [pegasystems/postgres-pljava-openjdk](https://hub.docker.com/r/pegasystems/postgres-pljava-openjdk/)
